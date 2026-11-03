@@ -1,6 +1,8 @@
-#Integrantes
+# Integrantes
 
 Rafa García https://github.com/Rafa-Garcia-Data
+
+# Estado del proyecto...
 
 # Fichas proyectos
 
