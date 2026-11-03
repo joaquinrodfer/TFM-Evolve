@@ -69,4 +69,4 @@ pip install -r requirements.txt
 
 Este proyecto se distribuye bajo licencia MIT.
 
-Los datos de terceros (AEMET, Copernicus, portales municipales, etc.) tienen sus propias condiciones de reutilización.
+> Los datos de terceros (AEMET, Copernicus, portales municipales, etc.) tienen sus propias condiciones de reutilización.
