@@ -1,6 +1,4 @@
-# Nombre del proyecto
-
-> Descripción en una frase: qué hace y para quién.
+# TFM Evolve
 
 **Estado:** 🟡 Exploración de ideas
 
@@ -14,7 +12,7 @@
 
 ## Contexto
 
-Julio pide 3 ideas de producto. Cada una está descrita con problema, usuarios, datos, MVP y medida de éxito en [`docs/entregas/00_ideas.md`](./docs/entregas/00_ideas.md). Cuando recibamos su feedback decidiremos cuál desarrollar y completaremos este README.
+Cada idea está descrita con problema, usuarios, datos, MVP y medida de éxito en [`docs/entregas/00_ideas.md`](./docs/entregas/00_ideas.md). Cuando recibamos su feedback decidiremos cuál desarrollar y completaremos este README.
 
 Ideas candidatas:
 1. Alerta temprana de inundaciones a escala local.
