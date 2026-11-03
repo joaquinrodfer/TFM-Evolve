@@ -46,8 +46,8 @@ _Por completar cuando haya código._
 
 ```bash
 # 1. Clonar el repositorio
-git clone <url-del-repo>
-cd <nombre-del-repo>
+git clone <https://github.com/joaquinrodfer/TFM-Evolve.git>
+cd <TFM-Evolve>
 
 # 2. Crear el entorno e instalar dependencias
 python -m venv .venv
