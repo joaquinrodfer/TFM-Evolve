@@ -1,4 +1,4 @@
-## Equipo
+# Equipo
 
 | Nombre | Usuario de GitHub |
 |---|---|
@@ -7,8 +7,6 @@
 | Joaquín Rodríguez| [@JoaquínRodríguez](https://github.com/joaquinrodfer) |
 
 # Fichas de proyecto: 3 ideas de producto para Julio
-
-Julio nos pide **3 ideas de producto** descritas con los mismos atributos. Nos devolverá feedback por idea y después decidiremos nosotros cuál nos convence más.
 
 **Atributos de cada ficha:** problema · usuarios · cómo se resuelve hoy · datos y origen · MVP · medida de éxito.
 
