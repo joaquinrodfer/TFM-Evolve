@@ -6,7 +6,7 @@
 | Rafa García | [@RafaGarcía](https://github.com/Rafa-Garcia-Data) |
 | Joaquín Rodríguez| [@JoaquínRodríguez](https://github.com/joaquinrodfer) |
 
-# Fichas de proyecto: 3 ideas de producto para Julio
+# Fichas de proyecto: 3 ideas de producto
 
 **Atributos de cada ficha:** problema · usuarios · cómo se resuelve hoy · datos y origen · MVP · medida de éxito.
 
@@ -258,6 +258,6 @@ Las ciudades son varios grados más calurosas que su entorno, y el calor extremo
 ---
 
 ## Siguientes pasos
-1. Recoger el feedback de Julio por idea.
+1. Recoger el feedback de por idea.
 2. Resolver los puntos marcados como "por verificar" en la idea elegida.
 3. Concretar el objetivo numérico del criterio de éxito con usuarios reales.
