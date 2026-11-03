@@ -74,8 +74,8 @@ Un panel con mapa (GIS) donde, para cada tramo del cauce, se muestra:
 | **SNCZI** | Zonas inundables T=10, 50, 100 y 500 años | Shapefile y servicios ATOM / OGC API Features | Cobertura variable según los estudios de cada cuenca |
 | **EFAS / GloFAS** (Copernicus EWDS) | Previsión y reanálisis histórico, como línea base o variable de entrada | Conjuntos históricos y reforecasts en el Early Warning Data Store. El acceso en tiempo real puede requerir solicitud | Resolución espacial gruesa para tramos pequeños |
 | **Humedad del suelo, Sentinel-1** (Copernicus Land Monitoring) | Humedad superficial a 1 km | Unos 5 cm de profundidad, paso de 1,5-4 días. Error típico de ~0,07 m³ en validación global, peor en bosque y relieve fuerte. Alternativa a verificar: ERA5-Land | Puede enmascarar zonas de montaña |
-| **Modelo digital del terreno, usos del suelo** | Pendiente, tipo de suelo, cobertura | Por verificar | Por evaluar |
-| **Registro de daños o incidencias** | Etiquetas alternativas y validación | Por verificar | Por evaluar |
+| **Modelo digital del terreno, usos del suelo** | Pendiente, tipo de suelo, cobertura | CORINE descargado desde Copernicus, con unidad mínima de 25 ha. |	Quizá pueda ser grueso para barrancos pequeños. |
+| **Registro de daños o incidencias** | Etiquetas alternativas y validación | Catálogo descargable en ZIP (v27) y actualización anual desde 2018. Cada episodio trae fecha, duración, municipios (código INE), caudal y precipitación máximos, aviso de AEMET, nivel de alerta de Protección Civil y daños. | El catálogo solo recoge episodios significativos y no da días sin evento. |
 
 ### MVP
 - **Alcance:** varias cuencas con estaciones de aforo (las suficientes para separar entrenamiento y validación), un solo tipo de evento (crecida fluvial) y un modelo que da la probabilidad de superar un umbral de crecida en las próximas *N* horas **sin usar el caudal medido como entrada**.
