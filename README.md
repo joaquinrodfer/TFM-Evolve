@@ -6,15 +6,15 @@
 
 ## Equipo
 
-| Nombre | Usuario de GitHub | Rol |
-|---|---|---|
-| Vicente Navas | [@usuario](https://github.com/vicentenr8) |
-| Rafa García | [@usuario](https://github.com/Rafa-Garcia-Data) |
-| Joaquín Rodríguez| [@usuario](https://github.com/joaquinrodfer) |
+| Nombre | Usuario de GitHub |
+|---|---|
+| Vicente Navas | [@VicenteNavas](https://github.com/vicentenr8) |
+| Rafa García | [@RafaGarcía](https://github.com/Rafa-Garcia-Data) |
+| Joaquín Rodríguez| [@JoaquínRodríguez](https://github.com/joaquinrodfer) |
 
 ## Contexto
 
-Julio nos ha pedido 3 ideas de producto. Cada una está descrita con problema, usuarios, datos, MVP y medida de éxito en [`docs/entrega/00_ideas.md`](./docs/entrega/00_ideas.md). Cuando recibamos su feedback decidiremos cuál desarrollar y completaremos este README.
+Julio pide 3 ideas de producto. Cada una está descrita con problema, usuarios, datos, MVP y medida de éxito en [`docs/entrega/00_ideas.md`](./docs/entrega/00_ideas.md). Cuando recibamos su feedback decidiremos cuál desarrollar y completaremos este README.
 
 Ideas candidatas:
 1. Alerta temprana de inundaciones a escala local.
