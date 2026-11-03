@@ -4,6 +4,8 @@ Rafa García https://github.com/Rafa-Garcia-Data
 
 # Estado del proyecto...
 
+Exploración de ideas
+
 # Fichas proyectos
 
 <aside>
