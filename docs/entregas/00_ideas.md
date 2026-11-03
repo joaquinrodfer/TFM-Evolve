@@ -1,3 +1,11 @@
+## Equipo
+
+| Nombre | Usuario de GitHub |
+|---|---|
+| Vicente Navas | [@VicenteNavas](https://github.com/vicentenr8) |
+| Rafa García | [@RafaGarcía](https://github.com/Rafa-Garcia-Data) |
+| Joaquín Rodríguez| [@JoaquínRodríguez](https://github.com/joaquinrodfer) |
+
 # Fichas de proyecto: 3 ideas de producto para Julio
 
 Julio nos pide **3 ideas de producto** descritas con los mismos atributos. Nos devolverá feedback por idea y después decidiremos nosotros cuál nos convence más.
