@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Roadmap
 
-- [ ] Recibir feedback de Julio sobre las 3 ideas
+- [ ] Recibir feedback sobre las 3 ideas
 - [ ] Elegir la idea y cerrar el alcance del MVP
 - [ ] Verificar las fuentes de datos marcadas como "por verificar"
 - [ ] Preparar el entorno y la estructura del repositorio
