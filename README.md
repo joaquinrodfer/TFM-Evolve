@@ -38,7 +38,7 @@ _Por rellenar cuando se elija la idea: problema que resuelve, usuario principal 
         └── 00_ideas.md   # Fichas de las 3 ideas de producto
 ```
 
-> Es una propuesta inicial; ajústala a medida que crezca el proyecto.
+> Es una propuesta inicial; se ajusta a medida que crezca el proyecto.
 
 ## Puesta en marcha
 
